@@ -4,6 +4,6 @@
 
 To run:
 
-javac avajLauncher/*.java
-java -cp . avajLauncher.Simulator scenario.txt
+javac avajLauncher/*.java</br>
+java -cp . avajLauncher.Simulator scenario.txt</br>
 cat simulation.txt
