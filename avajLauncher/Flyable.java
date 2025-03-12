@@ -1,7 +1,5 @@
 package avajLauncher;
 
-import avajLauncher.WeatherTower;
-
 public abstract class Flyable {
     protected WeatherTower weatherTower;
     public abstract void updateConditions() throws InvalidMethodException;

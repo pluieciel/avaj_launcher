@@ -1,7 +1,5 @@
 package avajLauncher;
 
-import avajLauncher.Tower;
-
 public class WeatherTower extends Tower {
     private final WeatherProvider weatherProvider = WeatherProvider.getInstance();
 
